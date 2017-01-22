@@ -12,7 +12,6 @@ npm install
 npm run dev
 
 # express server  localhost:3000
-
 npm run server
 
 # build for production with minification
