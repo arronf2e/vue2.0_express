@@ -1,6 +1,6 @@
 # vue_express_mysql
 
-> A Vue.js project
+> Vuejs + express 全栈开发脚手加
 
 ## Build Setup
 
@@ -14,8 +14,3 @@ npm run dev
 # express server  localhost:3000
 npm run server
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
