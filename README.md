@@ -1,6 +1,6 @@
 # vue_express_mysql
 
-> Vuejs + express 全栈开发脚手加
+> Vuejs + express 全栈开发脚手架
 
 ## Build Setup
 
